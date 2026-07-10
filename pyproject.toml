@@ -1,5 +1,5 @@
 [project.scripts]
-dice = "dice_roller.cli:app"
+roll = "dice_roller.cli:app"
 
 [project]
 name = "dice-roller"
