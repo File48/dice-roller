@@ -1,0 +1,10 @@
+[project.scripts]
+dice = "dice_roller.cli:app"
+
+[project]
+name = "dice-roller"
+dependencies = [
+    "typer",
+    "typing_extensions"
+]
+version = "0.1.14"
