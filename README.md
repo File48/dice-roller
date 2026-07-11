@@ -1,8 +1,8 @@
 ### Installation
-
-Run with pipx: `pipx install git+https://github.com/File48/dice-roller.git`
-
-Or, with pip: `pip install git+https://github.com/File48/dice-roller.git`
+Install with [pipx](https://pipx.pypa.io/stable/how-to/install-pipx/):
+```bash
+pipx install git+https://github.com/File48/dice-roller.git
+```
 
 ### Example uses
 - `roll d4` -> Returns the roll of a 4 sided die.
