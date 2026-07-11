@@ -1,3 +1,5 @@
+A lightweight, intuitive and fully featured CLI dice roller. Tailored towards TTRPG's.
+
 ### Installation
 Install with [pipx](https://pipx.pypa.io/stable/how-to/install-pipx/):
 ```bash

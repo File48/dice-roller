@@ -1,10 +1,15 @@
-[project.scripts]
-roll = "dice_roller.cli:app"
-
 [project]
 name = "dice-roller"
+version = "1.0.0"
 dependencies = [
     "typer",
     "typing_extensions"
 ]
-version = "0.1.14"
+license = "MIT"
+description = "A lightweight, intuitive and fully featured CLI dice roller. Tailored towards TTRPG's."
+
+[project.scripts]
+roll = "dice_roller.cli:app"
+
+[project.urls]
+github = "https://github.com/File48/dice-roller"
